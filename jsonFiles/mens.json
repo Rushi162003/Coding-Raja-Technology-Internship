@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "title": "Lycra Shirt",
+    "category": "mens category",
+    "description": "Dennis Lingo Men's Solid",
+    "image": "https://m.media-amazon.com/images/I/71blXygpkyL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "₹500",
+    "rate": "4"
+  },
+  {
+    "id": 2,
+    "title": "Formal Shirt",
+    "category": "mens category",
+    "description": "Lymio Track Pant for Men || Track Pants || Plain Track Pant (Track-06-08)",
+    "image": "https://m.media-amazon.com/images/I/91QsbaohADL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "1299",
+    "rate": "4.2"
+  },
+  {
+    "id": 3,
+    "title": "Round Neck T-Shirt",
+    "category": "mens category",
+    "description": "Amazon Brand - Symbol Men's Cotton Solid Round Neck Regular Fit T-Shirt (Pack of 3)",
+    "image": "https://m.media-amazon.com/images/I/61x1OCuKF8L._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "849",
+    "rate": "4"
+  },
+  {
+    "id": 4,
+    "title": "Short Sleeve T-Shirt",
+    "category": "mens category",
+    "description": "Van Heusen Men Athleisure Ultra Soft Polo T-Shirt - Short Sleeve, Textured",
+    "image": "https://m.media-amazon.com/images/I/612Yl1axUAL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "944",
+    "rate": "4"
+  },
+  {
+    "id": 5,
+    "title": "Polo T-Shirt",
+    "category": "mens category",
+    "description": "AMERICAN CREW Men's Polo T-Shirt with Pocket Tshirts",
+    "image": "https://m.media-amazon.com/images/I/71FnQe7tEqL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "695",
+    "rate": "4"
+  },
+  {
+    "id": 6,
+    "title": "Cotton Tshirt",
+    "category": "mens category",
+    "description": "XYXX Men 100% Cotton Tshirt",
+    "image": "https://m.media-amazon.com/images/I/715s6hHaYeL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "368",
+    "rate": "4"
+  },
+  {
+    "id": 7,
+    "title": "Square Polarization",
+    "category": "mens category",
+    "description": "VINCENT CHASE EYEWEAR Unisex Adult Square Polarization",
+    "image": "https://m.media-amazon.com/images/I/41Dr9I4x1EL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "499",
+    "rate": "4"
+  },
+  {
+    "id": 8,
+    "title": "Leather Wallet",
+    "category": "mens category",
+    "description": "WildHorn Leather Wallet for Men I Ultra Strong Stitching I 6 Credit Card Slots I 2 Currency Compartments I 1 Coin Pocket",
+    "image": "https://m.media-amazon.com/images/I/6105cCyCNdL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "299",
+    "rate": "4"
+  },
+  {
+    "id": 9,
+    "title": "Pajama Set",
+    "category": "mens category",
+    "description": "DHRUVI TRENDZ Men Pajama Set",
+    "image": "https://m.media-amazon.com/images/I/61P0uYAmqCL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "479",
+    "rate": "4"
+  },
+  {
+    "id": 10,
+    "title": "NIVEA MEN Deep",
+    "category": "mens category",
+    "description": "NIVEA MEN Deep Impact Freshness Deodorant Roll-on - For MEN, 50ml",
+    "image": "https://m.media-amazon.com/images/I/51l19NyctDL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "165",
+    "rate": "4"
+  },
+  {
+    "id": 11,
+    "title": "URBAN FOREST Leather Belt",
+    "category": "mens category",
+    "description": "URBAN FOREST Leather Belt for Men",
+    "image": "https://m.media-amazon.com/images/I/81jv56HsVOL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "499",
+    "rate": "3.9"
+  },
+  {
+    "id": 12,
+    "title": "Philips Beard Trimmer",
+    "category": "mens category",
+    "description": "Philips Battery Powered SkinProtect Beard Trimmer for Men - Lasts 4x Longer",
+    "image": "https://m.media-amazon.com/images/I/61VRH0jQrRL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "849",
+    "brand": "4"
+  },
+  {
+    "id": 13,
+    "title": "Crew Length Sock",
+    "category": "mens category",
+    "description": "The Tie Hub Solid Burgundy Crew Length Sock For Men",
+    "image": "https://m.media-amazon.com/images/I/51ZUoWjMxvL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "505",
+    "rate": "4"
+  },
+  {
+    "id": 14,
+    "title": "LOUIS DEVIN Wrist Watch",
+    "category": "mens category",
+    "description": "LOUIS DEVIN Mesh Steel Chain Analog Wrist Watch for Men (LD-G042)",
+    "image": "https://m.media-amazon.com/images/I/81K562wi+bL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "329",
+    "rate": "4"
+  },
+  {
+    "id": 15,
+    "title": "ELEGANTE ELEGANTE",
+    "category": "mens category",
+    "description": "ELEGANTE Smooth Leg Covers Lightweight Square Kabir Singh ELEGANTE for Men",
+    "image": "https://m.media-amazon.com/images/I/515gKnUgwpL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "321",
+    "rate": "4"
+  },
+  {
+    "id": 16,
+    "title": "Lymio Casual Shirt",
+    "category": "mens category",
+    "description": "Lymio Casual Shirt for Men|| Shirt for Men|| Men Stylish Shirt || Men Printed Shirt (Mistry)",
+    "image": "https://m.media-amazon.com/images/I/71MaGTXl7ML._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "349",
+    "rate": "3.5"
+  },
+ 
+  {
+    "id": 17,
+    "title": "Levis",
+    "category": "mens category",
+    "description": " Flannel pajama pant",
+    "image": "https://m.media-amazon.com/images/I/71MaGTXl7ML._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "756",
+    "rate": "3.5"
+  }
+]

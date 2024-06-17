@@ -1,0 +1,131 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.head {
+    display: flex;
+    justify-content: center;
+}
+
+.container h1 {
+    display: flex;
+    top: 0;
+}
+
+.signup {
+    height: 569;
+    width: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form p {
+    font-size: 28px;
+    font-size: 500;
+}
+
+form {
+    height: 568px;
+    width: 348.4px;
+    border: 1px solid rgb(223, 220, 220);
+    padding: 14px 18px;
+    border-radius: 8px;
+}
+
+label {
+    font-size: 14px;
+    font-weight: 700;
+}
+
+input,
+span {
+    height: 31px;
+    outline: 1px solid #a6a6a6;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 75px 222px;
+}
+
+.number {
+    float: right;
+    margin-left: 10px;
+}
+
+.bio {
+    width: 312;
+    height: 63;
+    /* margin-left: 10px; */
+    font-size: 13px;
+    line-height: 19px;
+    font-weight: 600;
+    position: relative;
+}
+
+.emailHelp {
+    font-size: 13px;
+}
+
+button {
+    background-color: #f7ca00;
+    height: 30px;
+    width: 312px;
+    outline: none;
+    border: none;
+    font-size: 14px;
+    border-radius: 8px;
+    font-weight: 600;
+    position: relative;
+}
+
+.login1 {
+    /* position: relative; */
+    width: 312;
+    height: 63;
+    font-size: 13px;
+    line-height: 19px;
+    font-weight: 600;
+}
+
+.login1 a {
+    text-decoration: none;
+} 
+
+#box {
+    margin-left: 30px;
+    position: absolute;
+    display: block;
+    background-color: #000000;
+    color: #d3caca;
+    /* position: relative; */
+    /* padding: 20px; */
+    /* margin-top: 10px; */
+}
+
+#box ul li {
+    list-style-type: none;
+}
+
+.invalid:before {
+    content: "✖";
+    margin-right: 30px;
+}
+
+.invalid {
+    color: red;
+    margin: 10px;
+}
+
+.valid:before {
+    position: relative;
+    margin-right: 30px;
+    content: "✔";
+}
+
+.valid {
+    color: green;
+}
